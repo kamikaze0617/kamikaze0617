@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kamikaze0617
-- 👀 I’m interested in foreign languages, 3D printing, and Android apps!
-- 🌱 I’m currently studying software engineering at Arizona State University (Go Sundevils!)
-- 💞️ I’m looking to collaborate on anything!
+- 👀 I'm interested in maps, urban planning, history, foreign languages, and software development
+- 🌱 I’m currently studying software engineering at Arizona State University
+- 💞️ I’m not looking to collaborate on anything (I'm busy)
 - 📫 How to reach me: TBD
 
 <!---
